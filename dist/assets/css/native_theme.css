@@ -476,7 +476,7 @@ div .hide,
 }
 
 .menuv.native .menuv-pagination .menu-pagination-option.active {
-    background-color: red;
+    background-color: rgb(2, 114, 110);
     color: white;
 }
 
